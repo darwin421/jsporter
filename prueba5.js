@@ -1,4 +1,4 @@
-(function contar()
+(function()
 
 {
  var c=document.querySelectorAll("img").length;
